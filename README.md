@@ -75,7 +75,7 @@ On the browse page, there are four options to filter by:
 * Maximum price per day
 * Location with bathroom facilities (Yes or No)
 
-Choose each option one at a time to filter rental spaces and click `Submit`. 
+Choose any combination of options to filter rental spaces and click `Submit`. 
 
 Rental spaces with these options will be filtered out for your view.
 
@@ -157,9 +157,6 @@ Api-routes was the in-between for the database and the front end. Passport was u
 
 Browse Page:
 * Less than or equal to operator not working, cards will only render if options chosen exactly match info on rental space
-* Choosing party size + max price per day must be submitted twice for cards to render
-* Choosing rental type, party size and bathroom facilities work together at the first submit but not with max price per day included
-    - All options must be chosen and submitted twice
 
 ### Contributors
 
