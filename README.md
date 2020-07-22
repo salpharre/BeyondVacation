@@ -1,6 +1,6 @@
 # Beyond Vacation
 
-![GitHub last commit](https://img.shields.io/github/last-commit/vanessabau/projectTwo) ![npm version](https://badge.fury.io/js/inquirer.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/salpharre/projectTwo) ![npm version](https://badge.fury.io/js/inquirer.svg)
 
 Beyond Vacation is a centralized location for outdoor rental spaces. Built around the idea of vacationing while still social distancing, it's a vacation away from your (indefinite) vacation.
 
