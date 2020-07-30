@@ -19,7 +19,7 @@ Beyond Vacation is a centralized location for outdoor rental spaces. Built aroun
     - [Technology](#technology)
     - [Front-End](#frontend)
     - [Back-End](#backend)
-* [Known Issues](#knownissues)
+* [Known Issues](#known-issues)
 * [Contributors](#contributors)
 * [Launch](#launch)
 * [Future Development](#futuredevelopment)
